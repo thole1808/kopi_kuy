@@ -1,0 +1,23 @@
+
+kode sumber:
+https://github.com/rikisaja/contoh-javascript/blob/main/add%20to%20cart/produk.html
+https://github.com/rikisaja/contoh-javascript/blob/main/add%20to%20cart/cart.html
+
+link tampilan:
+https://rikisaja.github.io/contoh-javascript/add%20to%20cart/produk.html
+
+Untuk produk yang super lengkap banget 👍 bisa di cek disini ya:
+
+kode sumber:
+https://github.com/gesitwidyatsmo/kopikuy/blob/main/produk.html
+https://github.com/gesitwidyatsmo/kopikuy/blob/main/cart.html
+
+link tampilan:
+https://gesitwidyatsmo.github.io/kopikuy/produk.html
+
+Silahkan di pahami sendiri dan di coba yaaa 😉😉
+
+Bonus superman silakan klik kanan nanti view source untuk melihat sumber kodenya:
+https://wellkitdev.github.io/Kopi-Kuy/index.html
+https://maulanaaskha.github.io/KopiKuy/produk.html
+https://leviathanlord.github.io/Kopi-kuy/produk.html
