@@ -214,7 +214,9 @@
                     <div class="col-lg-4">
                         <div class="container">
                             <div class="text-center mx-auto mb-5">
-                                <div id="search_label">Data Kategori Belum Tersedia silahkan klik Tab Kategori</div>
+                                <div id="search_label">Data Kategori Belum Tersedia &#128546; silahkan klik Tab Kategori 
+                                    <i class="fa fa-hand-point-right" aria-hidden="true"></i>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -499,6 +501,13 @@
         </div>
         <!-- Footer End -->
 
+        <div id="myModal" class="modal">
+            <div class="modal-content">
+                <span class="close">&times;</span>
+                <p>This is the modal content.</p>
+            </div>
+        </div>
+
 
         <!-- Back to Top -->
         <a href="#" class="btn btn-lg btn-primary btn-lg-square back-to-top"><i class="bi bi-arrow-up"></i></a>
@@ -512,6 +521,8 @@
     <script src="lib/waypoints/waypoints.min.js"></script>
     <script src="lib/owlcarousel/owl.carousel.min.js"></script>
     <script>
+
+
         var sumber = "data-kopi.json"
 
         // tab arabica
@@ -528,9 +539,7 @@
                         <div class="property-item rounded overflow-hidden">
                             <div class="position-relative overflow-hidden">
                                 <a href="#"><img class="img-fluid card-img" src="${item.foto}" alt=""></a>
-                                <div
-                                    class="bg-primary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">
-                                    Beli</div>
+                                <a id="beli_arabica" class="bg-primary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">Beli</a>
                                 <div
                                     class="bg-white rounded-top text-primary position-absolute start-0 bottom-0 mx-4 pt-1 px-3">
                                     Arabica</div>
